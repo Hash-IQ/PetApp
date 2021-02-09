@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Projects\\Flutter\\petapp\\build\\location\\intermediates\\res\\merged\\release\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\moham\\.gradle\\caches\\transforms-2\\files-2.1\\781c5749d9331a9cfa0a22f5fefcb843\\core-1.3.2\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Flutter\\petapp\\build\\location\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\moham\\.gradle\\caches\\transforms-2\\files-2.1\\781c5749d9331a9cfa0a22f5fefcb843\\core-1.3.2\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Flutter\\petapp\\build\\location\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\moham\\.gradle\\caches\\transforms-2\\files-2.1\\781c5749d9331a9cfa0a22f5fefcb843\\core-1.3.2\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Flutter\\petapp\\build\\location\\intermediates\\res\\merged\\release\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\moham\\.gradle\\caches\\transforms-2\\files-2.1\\781c5749d9331a9cfa0a22f5fefcb843\\core-1.3.2\\res\\layout-v21\\notification_action.xml"
+    }
+]

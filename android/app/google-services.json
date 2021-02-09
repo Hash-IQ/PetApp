@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "299610503851",
+    "project_id": "petapp-7f76a",
+    "storage_bucket": "petapp-7f76a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299610503851:android:153d9712363e0c1be8d5ee",
+        "android_client_info": {
+          "package_name": "com.example.petapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299610503851-54984fercfc11lu2rc26o4hrkqs5u3rd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.petapp",
+            "certificate_hash": "fc3a171ac8b1e3088eff76ce37df8f458746abe9"
+          }
+        },
+        {
+          "client_id": "299610503851-tir0bcqjf8s3kfgrl3d4ntpfln2hp7oq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.petapp",
+            "certificate_hash": "afaffb7374b651ebc98ca4fbc5014f2df3c30cd8"
+          }
+        },
+        {
+          "client_id": "299610503851-5qvlcnknb72goctgfpsg2cq550ug0r2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC24oltbAnLXRRl0bhE5DgHMG5-gbeGZPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299610503851-5qvlcnknb72goctgfpsg2cq550ug0r2l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

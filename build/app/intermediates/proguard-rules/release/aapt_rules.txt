@@ -1,0 +1,64 @@
+# Referenced at D:\Projects\Flutter\petapp\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:38
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at D:\Projects\Flutter\petapp\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:43
+-keep class com.example.petapp.MainActivity { <init>(); }
+# Referenced at D:\Projects\Flutter\petapp\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:282
+-keep class com.google.android.datatransport.runtime.backends.TransportBackendDiscovery { <init>(); }
+# Referenced at D:\Projects\Flutter\petapp\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:295
+-keep class com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver { <init>(); }
+# Referenced at D:\Projects\Flutter\petapp\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:289
+-keep class com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService { <init>(); }
+# Referenced at D:\Projects\Flutter\petapp\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:268
+-keep class com.google.android.gms.auth.api.signin.RevocationBoundService { <init>(); }
+# Referenced at D:\Projects\Flutter\petapp\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:259
+-keep class com.google.android.gms.auth.api.signin.internal.SignInHubActivity { <init>(); }
+# Referenced at D:\Projects\Flutter\petapp\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:273
+-keep class com.google.android.gms.common.api.GoogleApiActivity { <init>(); }
+# Referenced at D:\Projects\Flutter\petapp\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:253
+-keep class com.google.android.gms.measurement.AppMeasurementJobService { <init>(); }
+# Referenced at D:\Projects\Flutter\petapp\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:243
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver { <init>(); }
+# Referenced at D:\Projects\Flutter\petapp\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:249
+-keep class com.google.android.gms.measurement.AppMeasurementService { <init>(); }
+# Referenced at D:\Projects\Flutter\petapp\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:204
+-keep class com.google.firebase.auth.api.fallback.service.FirebaseAuthFallbackService { <init>(); }
+# Referenced at D:\Projects\Flutter\petapp\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:160
+-keep class com.google.firebase.auth.internal.FederatedSignInActivity { <init>(); }
+# Referenced at D:\Projects\Flutter\petapp\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:167
+-keep class com.google.firebase.auth.internal.GenericIdpActivity { <init>(); }
+# Referenced at D:\Projects\Flutter\petapp\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:185
+-keep class com.google.firebase.auth.internal.RecaptchaActivity { <init>(); }
+# Referenced at D:\Projects\Flutter\petapp\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:90
+-keep class com.google.firebase.components.ComponentDiscoveryService { <init>(); }
+# Referenced at D:\Projects\Flutter\petapp\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:227
+-keep class com.google.firebase.iid.FirebaseInstanceIdReceiver { <init>(); }
+# Referenced at D:\Projects\Flutter\petapp\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:218
+-keep class com.google.firebase.messaging.FirebaseMessagingService { <init>(); }
+# Referenced at D:\Projects\Flutter\petapp\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:236
+-keep class com.google.firebase.provider.FirebaseInitProvider { <init>(); }
+# Referenced at D:\Projects\Flutter\petapp\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:85
+-keep class com.lyokone.location.FlutterLocationService { <init>(); }
+# Referenced at D:\Projects\Flutter\petapp\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:146
+-keep class de.esys.esysfluttershare.EsysFlutterShareFileProvider { <init>(); }
+# Referenced at D:\Projects\Flutter\petapp\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:38
+-keep class io.flutter.app.FlutterApplication { <init>(); }
+# Referenced at D:\Projects\Flutter\petapp\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:122
+-keep class io.flutter.plugins.firebasemessaging.FlutterFirebaseMessagingService { <init>(); }
+# Referenced at D:\Projects\Flutter\petapp\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:128
+-keep class io.flutter.plugins.imagepicker.ImagePickerFileProvider { <init>(); }
+# Referenced at D:\Projects\Flutter\petapp\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:137
+-keep class io.flutter.plugins.share.ShareFileProvider { <init>(); }
+# Referenced at D:\Projects\Flutter\petapp\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:156
+-keep class io.flutter.plugins.urllauncher.WebViewActivity { <init>(); }
+# Referenced at C:\Users\moham\.gradle\caches\transforms-2\files-2.1\3f54c5a1230862ec1895324004c10cea\jetified-exoplayer-ui-2.9.6\res\layout\exo_simple_player_view.xml:18
+-keep class com.google.android.exoplayer2.ui.AspectRatioFrameLayout { <init>(...); }
+
+# Referenced at C:\Users\moham\.gradle\caches\transforms-2\files-2.1\3f54c5a1230862ec1895324004c10cea\jetified-exoplayer-ui-2.9.6\res\layout\exo_playback_control_view.xml:76
+-keep class com.google.android.exoplayer2.ui.DefaultTimeBar { <init>(...); }
+
+# Referenced at C:\Users\moham\.gradle\caches\transforms-2\files-2.1\3f54c5a1230862ec1895324004c10cea\jetified-exoplayer-ui-2.9.6\res\layout\exo_simple_player_view.xml:35
+-keep class com.google.android.exoplayer2.ui.SubtitleView { <init>(...); }
+
+# Referenced at C:\Users\moham\.gradle\caches\transforms-2\files-2.1\3f54c5a1230862ec1895324004c10cea\jetified-exoplayer-ui-2.9.6\res\layout\exo_track_selection_dialog.xml:20
+-keep class com.google.android.exoplayer2.ui.TrackSelectionView { <init>(...); }
+
